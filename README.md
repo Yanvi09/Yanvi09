@@ -1,30 +1,112 @@
-[![MasterHead](https://img.freepik.com/premium-photo/visions-anime-fantasies-cyberpunk-realms_713888-15131.jpg
-)]
-<h1 align="center">Hi 👋, I'm Yanvi09</h1>
-<h3 align="center">A passionate computer science Student</h3>
+```md
+<h1 align="center">Hi 👋, I'm Anvi Yadav</h1>
+<h3 align="center">Backend-Focused Full Stack Developer | Python • Django • APIs • Scalable Systems</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanvi09&label=Profile%20views&color=0e75b6&style=flat" alt="yanvi09" /> </p>
-
-- 🌱 I’m currently learning **C++,DSA**
-
-- 💬 Ask me about **HTML,CSS**
-
-- 📫 How to reach me **20yanvi05@gmail.com**
-
-- ⚡ Fun fact **I am creative**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anvi yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anvi yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/anviyadav_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anviyadav_09" height="30" width="40" /></a>
+<p align="center">
+Passionate about building scalable backend systems, secure APIs, and performance-driven web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yanvi09&show_icons=true&locale=en&layout=compact" alt="yanvi09" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanvi09&show_icons=true&locale=en" alt="yanvi09" /></p>
+- 🎓 Final Year Computer Science Engineering Student graduating in 1 month
+- 💻 Backend-focused Full Stack Developer with hands-on experience in Django, Flask, MERN, and REST APIs
+- ⚡ Strong interest in scalable architectures, API engineering, authentication systems, and database optimization
+- 🧠 Love solving real-world engineering problems with clean and maintainable code
+- 🌱 Currently exploring DevOps, Cloud Infrastructure, and System Design
+- 🎯 Goal: Build impactful software products and grow as a backend engineer
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanvi09&" alt="yanvi09" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,kubernetes" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🔹 Azeroth Chain Explorer
+Blockchain backend system with wallet generation, mining, and real-time transaction updates.
+
+**Tech:** Flask, Socket.IO, Docker, ECDSA  
+🔗 Repo: https://github.com/Yanvi09/Azeroth_Chain_Explorer
+
+---
+
+### 🔹 BlackThread
+Scalable Django REST API platform with authentication, CRUD operations, and PostgreSQL optimization.
+
+**Tech:** Django, DRF, PostgreSQL  
+🔗 Repo: https://github.com/Yanvi09/BlackThread
+
+---
+
+### 🔹 LetShop
+Full-stack MERN e-commerce platform with JWT authentication and optimized checkout workflows.
+
+**Tech:** MongoDB, Express.js, React.js, Node.js  
+🔗 Repo: https://github.com/Yanvi09/LetsShop
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yanvi09&show_icons=true&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanvi09&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanvi09&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+- IBM DevOps and Software Engineering Specialization
+- AWS Cloud Solutions Architect
+- Agile Driven Development and Project Management
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/anvi-yadav/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/anviyadav_09" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+📫 Reach me at: **yadavanvi355@gmail.com**
+
+---
+
+## ✨ Fun Fact
+
+I enjoy blending creativity with engineering to build products that are both scalable and visually engaging.
+```
