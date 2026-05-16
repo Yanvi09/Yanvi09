@@ -1,140 +1,81 @@
-```md id="profile-upgrade"
-<h1 align="center">Hi 👋, I'm Anvi Yadav</h1>
-<h3 align="center">Backend Focused Full Stack Developer | Python • Django • APIs • Scalable Systems</h3>
+```md id="clean-github-profile"
+## Anvi Yadav
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+Progress...;Django+%7C+Flask+%7C+PostgreSQL+%7C+REST+APIs;Building+Scalable+and+Secure+Applications;Final+Year+CSE+Student" />
-</p>
+Backend-focused Full Stack Developer building scalable APIs, backend systems, and performance-driven applications.
 
----
-
-## 🚀 About Me
-
-💻 Backend-focused Full Stack Developer passionate about building scalable systems and secure APIs.
-
-🎓 Final Year Computer Science Engineering Student graduating in 1 month.
-
-⚡ Experienced with Django, Flask, PostgreSQL, REST APIs, MERN Stack, Docker, and AWS.
-
-🧠 Interested in:
-- Backend Engineering
-- API Architecture
-- System Design
-- DevOps & Cloud
-- Database Optimization
-
-🌱 Currently improving:
-- Kubernetes
-- Advanced System Design
-- Scalable Backend Architecture
-
-📫 Reach me at: **yadavanvi355@gmail.com**
+🎓 Final Year CSE Student  
+💻 Python • Django • Flask • PostgreSQL • REST APIs  
+⚡ Interested in Backend Engineering, System Design & DevOps
 
 ---
 
-## 🌐 Connect With Me
+### About Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/anvi-yadav/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
-</a>
-
-<a href="https://instagram.com/anviyadav_09" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
-</a>
-
-<a href="https://github.com/Yanvi09" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
-</a>
-</p>
+- 🔭 Currently working on backend-heavy full stack projects
+- 🌱 Learning Kubernetes, scalable architecture & cloud systems
+- 💬 Ask me about Django, APIs, PostgreSQL, Backend Development
+- ⚡ Strong interest in system design and optimization
+- 📫 yadavanvi355@gmail.com
 
 ---
 
-# 💻 Tech Stack
+### Connect
 
-### 🚀 Backend
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" />
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-### ☁️ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,git,github,postman" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvi-yadav/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anviyadav_09)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yanvi09)
 
 ---
 
-# 🚀 Featured Projects
+### Tech Stack
 
-## 🔹 Azeroth Chain Explorer
-> Blockchain backend system with wallet generation, mining, and real-time transaction synchronization.
+#### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
-**Tech Stack:** Flask, Socket.IO, Docker, ECDSA
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-🔗 Repo:  
-https://github.com/Yanvi09/Azeroth_Chain_Explorer
-
----
-
-## 🔹 BlackThread
-> Scalable Django REST API platform with secure authentication and optimized PostgreSQL queries.
-
-**Tech Stack:** Django, DRF, PostgreSQL
-
-🔗 Repo:  
-https://github.com/Yanvi09/BlackThread
-
----
-
-## 🔹 LetShop
-> Full-stack MERN e-commerce platform with JWT authentication and optimized checkout workflows.
-
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js
-
-🔗 Repo:  
-https://github.com/Yanvi09/LetsShop
+#### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-# 📊 GitHub Analytics
+### Projects
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yanvi09&show_icons=true&theme=tokyonight&hide_border=true" />
+#### Azeroth Chain Explorer
+Blockchain backend with wallet generation, mining, and real-time transaction synchronization.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanvi09&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+#### BlackThread
+Django REST API platform with authentication, CRUD operations, and PostgreSQL optimization.
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanvi09&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 Certifications
-
-✅ IBM DevOps and Software Engineering Specialization  
-✅ AWS Cloud Solutions Architect  
-✅ Agile Driven Development & Project Management
+#### LetShop
+MERN-based e-commerce platform with JWT authentication and optimized checkout workflows.
 
 ---
 
-# ⚡ Fun Fact
+### GitHub Stats
 
-✨ I enjoy blending creativity with engineering to build products that are both scalable and visually engaging.
+![](https://github-readme-stats.vercel.app/api?username=Yanvi09&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yanvi09&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanvi09&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yanvi09&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
+### Certifications
+
+- IBM DevOps and Software Engineering Specialization
+- AWS Cloud Solutions Architect
+- Agile Driven Development & Project Management
 ```
