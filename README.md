@@ -3,39 +3,35 @@
 
 <h1 align="center">Hi 👋, I'm Anvi Yadav</h1>
 
-<h3 align="center">
-Backend Focused Full Stack Developer | Python • Django • APIs • PostgreSQL
-</h3>
+<h3 align="center">A Backend Focused Full Stack Developer</h3>
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=Yanvi09&label=Profile%20views&color=0e75b6&style=flat" alt="Yanvi09" />
 </p>
 
----
+- 🌱 I’m currently working with **Python, Django, Flask, PostgreSQL, REST APIs**
 
-- 🌱 Currently exploring **System Design, Kubernetes & Cloud Infrastructure**
+- 💬 Ask me about **Backend Development, APIs, Authentication & System Architecture**
 
-- 💬 Ask me about **Python, Django, REST APIs, Backend Architecture**
+- 🚀 Currently exploring **Docker, Kubernetes & Cloud Infrastructure**
 
-- ⚡ Backend-focused developer passionate about scalable systems & optimization
+- 📫 How to reach me **yadavanvi355@gmail.com**
 
-- 📫 Reach me at **yadavanvi355@gmail.com**
-
----
+- ⚡ Fun fact **I enjoy blending creativity with engineering**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/anvi-yadav/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anvi-yadav" height="30" width="40" />
 </a>
 
 <a href="https://instagram.com/anviyadav_09" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anviyadav_09" height="30" width="40" />
 </a>
-</p>
 
----
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -69,42 +65,22 @@ Backend Focused Full Stack Developer | Python • Django • APIs • PostgreSQL
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 </a>
 
-</p>
-
----
-
-<h3 align="left">GitHub Analytics:</h3>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yanvi09&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanvi09&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanvi09&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanvi09&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Yanvi09" />
 </p>
 
----
+<p>
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanvi09&show_icons=true&locale=en&theme=tokyonight" alt="Yanvi09" />
+</p>
 
-<h3 align="left">Featured Projects:</h3>
-
-- 🔹 **Azeroth Chain Explorer** — Blockchain backend with real-time transaction synchronization
-
-- 🔹 **BlackThread** — Django REST API platform with PostgreSQL optimization
-
-- 🔹 **LetShop** — MERN E-commerce platform with JWT authentication
-
----
-
-<h3 align="left">Achievements:</h3>
-
-🏆 AWS Cloud Solutions Architect  
-🏆 IBM DevOps & Software Engineering Specialization  
-🏆 Agile Driven Development & Project Management
-
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yanvi09&theme=tokyonight" alt="Yanvi09" />
+</p>
 ```
