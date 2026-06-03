@@ -10,7 +10,7 @@
 
 
 
-# Hi 👋, I'm Anvi Yadav
+# Greetings 👋, I'm Anvi Yadav
 
 
 
